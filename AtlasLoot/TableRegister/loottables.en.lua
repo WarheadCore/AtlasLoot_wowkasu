@@ -268,13 +268,17 @@ end
 	AtlasLoot_TableNames["Naxx80Loatheb25Man"] = { BabbleBoss["Loatheb"], "AtlasLootWotLK" };
 	AtlasLoot_TableNames["Naxx80Loatheb25ManHEROIC"] = { BabbleBoss["Loatheb"], "AtlasLootWotLK" };
 	AtlasLoot_TableNames["Naxx80Sapphiron"] = { BabbleBoss["Sapphiron"], "AtlasLootWotLK" };
+	AtlasLoot_TableNames["Naxx80SapphironHEROIC"] = { BabbleBoss["Sapphiron"], "AtlasLootWotLK" };
 	AtlasLoot_TableNames["Naxx80Sapphiron25Man"] = { BabbleBoss["Sapphiron"], "AtlasLootWotLK" };
+	AtlasLoot_TableNames["Naxx80Sapphiron25ManHEROIC"] = { BabbleBoss["Sapphiron"], "AtlasLootWotLK" };
 	AtlasLoot_TableNames["Naxx80KelThuzad"] = { BabbleBoss["Kel'Thuzad"], "AtlasLootWotLK" };
 	AtlasLoot_TableNames["Naxx80KelThuzadHEROIC"] = { BabbleBoss["Kel'Thuzad"], "AtlasLootWotLK" };
 	AtlasLoot_TableNames["Naxx80KelThuzad25Man"] = { BabbleBoss["Kel'Thuzad"], "AtlasLootWotLK" };
 	AtlasLoot_TableNames["Naxx80KelThuzad25ManHEROIC"] = { BabbleBoss["Kel'Thuzad"], "AtlasLootWotLK" };
 	AtlasLoot_TableNames["Naxx80Trash"] = { AL["Trash Mobs"].." ("..BabbleZone["Naxxramas"]..")", "AtlasLootWotLK" };
+	AtlasLoot_TableNames["Naxx80TrashHEROIC"] = { AL["Trash Mobs"].." ("..BabbleZone["Naxxramas"]..")", "AtlasLootWotLK" };
 	AtlasLoot_TableNames["Naxx80Trash25Man"] = { AL["Trash Mobs"].." ("..BabbleZone["Naxxramas"]..")", "AtlasLootWotLK" };
+	AtlasLoot_TableNames["Naxx80Trash25ManHEROIC"] = { AL["Trash Mobs"].." ("..BabbleZone["Naxxramas"]..")", "AtlasLootWotLK" };
   -- Obsidian Sanctum
 	AtlasLoot_TableNames["Sartharion"] = { BabbleBoss["Sartharion"], "AtlasLootWotLK" };
 	AtlasLoot_TableNames["Sartharion25Man"] = { BabbleBoss["Sartharion"], "AtlasLootWotLK" };

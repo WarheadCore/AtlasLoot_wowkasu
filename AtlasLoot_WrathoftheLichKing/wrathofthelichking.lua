@@ -4420,7 +4420,7 @@ local BabbleZone = AtlasLoot_GetLocaleLibBabble("LibBabble-Zone-3.0")
 		{ 17, 140632, "", "=q4=Crown of the Lost Protector", "=ds=#e15#", "", "57%"};
 		{ 18, 140633, "", "=q4=Crown of the Lost Vanquisher", "=ds=#e15#", "", "73%"};
 		Prev = "Naxx80Sapphiron25ManHEROIC";
-		Next = "Naxx80Trash25ManHEROIC";
+		Next = "Naxx80Trash25Man";
 	};
 
 	AtlasLoot_Data["Naxx80Trash"] = {
@@ -4433,6 +4433,16 @@ local BabbleZone = AtlasLoot_GetLocaleLibBabble("LibBabble-Zone-3.0")
 		Prev = "Naxx80KelThuzad";
 	};
 
+	AtlasLoot_Data["Naxx80TrashHEROIC"] = {
+		{ 1, 39467, "", "=q4=Minion Bracers", "=ds=#s8#, #a4#", "", "1%"};
+		{ 2, 39472, "", "=q4=Chain of Latent Energies", "=ds=#s2#", "", "1%"};
+		{ 3, 39470, "", "=q4=Medallion of the Disgraced", "=ds=#s2#", "", "1%"};
+		{ 4, 39427, "", "=q4=Omen of Ruin", "=ds=#h1#, #w4#", "", "1%"};
+		{ 5, 39468, "", "=q4=The Stray", "=ds=#h4#, #w13#", "", "1%"};
+		{ 6, 39473, "", "=q4=Contortion", "=ds=#w12#", "", "1%"};
+		Prev = "Naxx80KelThuzadHEROIC";
+	};
+
 	AtlasLoot_Data["Naxx80Trash25Man"] = {
 		{ 1, 40410, "", "=q4=Shadow of the Ghoul", "=ds=#s4#", "", "1%"};
 		{ 2, 40409, "", "=q4=Boots of the Escaped Captive", "=ds=#s12#, #a2#", "", "1%"};
@@ -4442,6 +4452,17 @@ local BabbleZone = AtlasLoot_GetLocaleLibBabble("LibBabble-Zone-3.0")
 		{ 6, 40407, "", "=q4=Silent Crusader", "=ds=#h1#, #w10#", "", "1%"};
 		{ 7, 40406, "", "=q4=Inevitable Defeat", "=ds=#h2#, #w6#", "", "1%"};
 		Prev = "Naxx80KelThuzad25Man";
+	};
+
+	AtlasLoot_Data["Naxx80Trash25ManHEROIC"] = {
+		{ 1, 40410, "", "=q4=Shadow of the Ghoul", "=ds=#s4#", "", "1%"};
+		{ 2, 40409, "", "=q4=Boots of the Escaped Captive", "=ds=#s12#, #a2#", "", "1%"};
+		{ 3, 40414, "", "=q4=Shoulderguards of the Undaunted", "=ds=#s3#, #a4#", "", "1%"};
+		{ 4, 40412, "", "=q4=Ousted Bead Necklace", "=ds=#s2#", "", "1%"};
+		{ 5, 40408, "", "=q4=Haunting Call", "=ds=#h3#, #w4#", "", "1%"};
+		{ 6, 40407, "", "=q4=Silent Crusader", "=ds=#h1#, #w10#", "", "1%"};
+		{ 7, 40406, "", "=q4=Inevitable Defeat", "=ds=#h2#, #w6#", "", "1%"};
+		Prev = "Naxx80KelThuzad25ManHEROIC";
 	};
 
 		------------------------
